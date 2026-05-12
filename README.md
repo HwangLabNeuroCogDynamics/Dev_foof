@@ -1,0 +1,1 @@
+Code for old EEG projects for Cellier, D., Riddle, J., Petersen, I., & Hwang, K. (2021). The development of theta and alpha neural oscillations from ages 3 to 24 years. Developmental cognitive neuroscience, 50, 100969.
